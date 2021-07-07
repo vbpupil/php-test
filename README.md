@@ -1,2 +1,2 @@
 # Test php-app
-Used for testing of Docker environment setup.
+Dummy application which outputs Mr Bean to the a browser window - used for testing of Docker environment setup.
